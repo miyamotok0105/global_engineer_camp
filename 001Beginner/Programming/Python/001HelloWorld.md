@@ -1,4 +1,5 @@
 
+## Python勉強リンク集
 
 Pythonではインデントが大事
 
@@ -29,6 +30,7 @@ if a > 0:
 else:
     print("No")
 ```
+
 
 
 

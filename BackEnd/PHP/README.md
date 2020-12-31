@@ -1,6 +1,5 @@
 
-
-## Laravel
+## Laravel勉強リンク集
 
 チームラボさんの記事と課題は非常に良い。    
 やんばるさんのコンテンツも良い噂が多い。    
@@ -41,8 +40,15 @@ https://team-lab.github.io/skillup/
 想定作業時間：30時間〜80時間
 ```
 
+- Laravel TIPS    
 
-公式ドキュメント命
+https://laraveldaily.com/free-e-book-40-laravel-quick-tips-and-counting/
+
+
+
+## 公式ドキュメント命
+
+一通り読んでおく方が良い。
 
 https://readouble.com/laravel/
 
