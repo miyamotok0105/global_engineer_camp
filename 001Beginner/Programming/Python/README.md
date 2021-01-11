@@ -29,6 +29,11 @@ https://qiita.com/1429takahiro/items/710a877b1afb1626334f
 想定作業時間：1時間〜3時間
 ```
 
+- Python3プログラミングよく使う構文などのチートシート風まとめ    
+
+https://arakan-pgm-ai.hatenablog.com/entry/2019/05/07/000000
+
+
 
 ## Python基礎文法用の5冊
 

@@ -511,6 +511,10 @@ console.log("Hello World!")
 ```
 
 
+## TIPS
 
+
+Javascript localStorageに配列を保存する
+http://www.gigas-jp.com/appnews/archives/7720
 
 
