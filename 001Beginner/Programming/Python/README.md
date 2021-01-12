@@ -73,7 +73,7 @@ Pythonではじめる機械学習 ―scikit-learnで学ぶ特徴量エンジニ�
 
 ## Pythonニュース
 
-pyenvが主流になりつつある 2020年03月16日に更新
+pipenvが主流になりつつある 2020年03月16日に更新
 https://qiita.com/propella/items/247beb6be15bdef66ecc
 
 pipとcondaは混ぜるな危険という話がある:2020-10-24
