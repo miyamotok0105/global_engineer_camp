@@ -80,5 +80,8 @@ pipとcondaは混ぜるな危険という話がある:2020-10-24
 http://onoz000.hatenablog.com/entry/2018/02/11/142347
 
 
+## Python基礎
+
+[Pythonの基本的な型について](https://qiita.com/miyamotok0105/private/3215891b4db735cf64f4)
 
 
