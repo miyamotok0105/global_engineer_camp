@@ -4,8 +4,8 @@
 ## このリポジトリの使い方
 
 学ぶ時に使ってる資料をまとめてるリポジトリ。技術は日進月歩の為、１年も経てばコンテンツは古くなるのでリンク集とする。
-
 今年１年は特に勉強方法とか聞かれて答えてる時間が多かったので、ここにある程度まとめておく。
+
 
 ```
 使い方の例    
@@ -16,11 +16,26 @@
 4.自分のサービスを作ってみる    
 ```
 
+[社内で数人アンケートとって新言語の勉強ステップをまとめてみた](https://qiita.com/miyamotok0105/items/891e8d4e81e8ad126c99)
 
-未経験で言語自体を学ぶ時の例    
+これはざっくり一読した方が良い。どのくらいの研修が行われてるのかをチェックすることで、自分の位置を確認できる。    
+[エンジニア向け新人研修](https://gist.github.com/gcchaan/02f4746a323acac4095c30e0783a3912)
 
-001Beginnerフォルダ -> BackEndフォルダ
 
+### 未経験で言語自体を学ぶ時の例    
+
+1. 001Beginnerフォルダ
+
+PHPで行くならこんな感じ。JSは仮に捨てれたとしても、SQLは捨て難い。
+何かしらのORM的なものがあるのでSQLを直で書かない場合も多いけど、やっぱり知っておいた方が良いと思ってる。
+    
+[PHP勉強リンク集](https://github.com/miyamotok0105/global_engineer_camp/tree/master/001Beginner/Programming/PHP)
+[JavaScript勉強リンク集](https://github.com/miyamotok0105/global_engineer_camp/tree/master/001Beginner/Programming/JavaScript)
+[SQL勉強リンク集](https://github.com/miyamotok0105/global_engineer_camp/blob/master/001Beginner/Programming/SQL/README.md)
+
+2. BackEndフォルダ
+        
+[Laravel勉強リンク集](https://github.com/miyamotok0105/global_engineer_camp/tree/master/BackEnd/PHP)
 
 ## 勉強方法
 
@@ -32,8 +47,9 @@
 - 勉強会に行く
   - 見に行くだけより発表した方がいい
   - 間違ってもいいのでアウトプットすることで伸び方が変わる
-- オンラインスクールに行く
-  - Laravelなら知り合いがやってるとこ(https://tech-quest.co.jp/)
+- オンラインスクールに行く、オンライン講座を使用する
+  - Laravelのスクールは[tech-quest](https://tech-quest.co.jp/)
+  - PythonやDjangoのオンライン講座は[just-python](https://just-python.com/)
   - 他のスクールはいいところあれば教えてください
 - ポートフォリオ、自分のサービスを作る
   - 自分が使いたいやつを作るのが良い
