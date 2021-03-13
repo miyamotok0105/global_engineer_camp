@@ -4,6 +4,15 @@
 基本構文がわかったら、ひたすら写経する。それができるようになったら、自分の作りたいものを作ってみると良い。
 
 
+- JavaScript で forEach を使うのは最終手段
+
+https://qiita.com/diescake/items/70d9b0cbd4e3d5cc6fce
+
+
+- なぜ我々は頑なにforを避けるのか
+
+https://qiita.com/tetsuya-zama/items/11e19b9da4892eb365c4
+
 
 
 ## JavaScript練習問題

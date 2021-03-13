@@ -3,6 +3,31 @@
 
 基本構文がわかったら、ひたすら写経する。それができるようになったら、自分の作りたいものを作ってみると良い。
 
+- PHP入門
+
+https://qiita.com/mackeyTA/items/069900b5c2366fb30e3a
+
+当然抑えるべき。
+
+- PHP頻出文法チートシート
+
+https://qiita.com/rana_kualu/items/95a9598cf62c9317c098
+
+当然抑えるべき。
+
+- PHPオブジェクト指向入門
+
+https://qiita.com/mpyw/items/41230bec5c02142ae691
+
+オブジェクト指向は最低限やった方が良い。
+
+
+- 分岐アンチパターン
+
+https://qiita.com/pakkun/items/9bef9132f168ba0befd7
+
+あると良い。
+
 
 ## PHP基礎文法用の5冊
 
