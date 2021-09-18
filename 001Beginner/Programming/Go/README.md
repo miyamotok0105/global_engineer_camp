@@ -10,6 +10,13 @@ https://github.com/miyamotok0105/golang_sample/tree/main/001basic1
     
 
 
+## サンプル
+
+参考になるリポジトリ
+
+https://github.com/Takumaron/Orenotorero
+
+
 ## Go練習問題
 
 

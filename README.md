@@ -95,11 +95,19 @@ Linux(CentOS)はyum
 Macはbrew
 ```
 
+## 便利ツール
+
+
+https://github.com/awslabs/git-secrets
+
 
 ## エンジニアのRoadmap
 
 
-https://github.com/kamranahmedse/developer-roadmap
+[Roadmap to becoming a web developer in 2021](https://github.com/kamranahmedse/developer-roadmap)
+
+[クラウドエンジニア(AWS)ロードマップ2021](https://qiita.com/KurokawaKouhei/items/4e9aa3b526f3f233bf85)
+
 
 
 ## 業務別のプログラミング言語

@@ -68,3 +68,20 @@ Clean Architecture 達人に学ぶソフトウェアの構造と設計
 ```
 PHPによるデザインパターン入門
 ```
+
+
+## Docker
+
+## k8s
+
+手を動かす系。
+
+[【初心者】Amazon EKSを使ってみる　（環境構築～サンプルアプリ起動まで）](https://qiita.com/mksamba/items/666c0d666fbb2e052d19)
+
+
+情報収集系。Amazon EKS Advent Calendarを全部読んでわからないところを勉強会とかで質問しよう。
+
+[EKS入門者向けに「今こそ振り返るEKSの基礎」というタイトルで登壇しました #jawsug_ct](https://dev.classmethod.jp/articles/eks_basic/)
+
+
+[EKSにおけるAutoScalingパターン](https://esakat.github.io/esakat-blog/posts/eks-advent-calender-2020/)
