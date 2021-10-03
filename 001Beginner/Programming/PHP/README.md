@@ -50,6 +50,19 @@ PHP本格入門[下] ~オブジェクト指向設計、セキュリティ、現�
 
 ```
 
+## PHP実行方法
+
+ビルドインサーバー
+
+```
+php -S localhost:8000
+```
+
+
+## PHP講座(整理中)
+
+https://github.com/miyamotok0105/web-php-js-training
+
 
 ## PHP練習問題
 

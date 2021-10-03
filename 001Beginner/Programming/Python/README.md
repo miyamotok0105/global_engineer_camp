@@ -56,7 +56,11 @@ Pythonではじめる機械学習 ―scikit-learnで学ぶ特徴量エンジニ�
 
 ```
 
+## Python講座(整理中)
 
+https://github.com/miyamotok0105/python_sample
+
+https://github.com/miyamotok0105/opencv_sample
 
 ## Python練習問題
 

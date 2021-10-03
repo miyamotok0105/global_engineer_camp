@@ -70,6 +70,22 @@ PHPによるデザインパターン入門
 ```
 
 
+- 分岐アンチパターン
+
+https://qiita.com/pakkun/items/9bef9132f168ba0befd7
+
+- solid原則
+
+https://qiita.com/SK2-TAK05/items/e80863785a1646a4b650
+
+## PHP実行方法
+
+ビルドインサーバー
+
+```
+php -S localhost:8000
+```
+
 ## Docker
 
 ## k8s

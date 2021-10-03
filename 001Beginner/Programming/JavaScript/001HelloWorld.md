@@ -75,7 +75,7 @@ console.log(typeof c);    // undefined と表示される
 https://developer.mozilla.org/ja/docs/Web/JavaScript/Reference/Reserved_Words
 
 命名規約がある。
-
+ググること。
 
 ## 変数と定数
 

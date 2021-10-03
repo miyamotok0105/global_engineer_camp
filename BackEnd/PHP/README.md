@@ -53,3 +53,25 @@ https://laraveldaily.com/free-e-book-40-laravel-quick-tips-and-counting/
 https://readouble.com/laravel/
 
 
+
+全142種類！Laravelヘルパー関数実例
+
+https://blog.capilano-fw.com/?p=837#i-8
+
+
+Illuminateのドキュメント
+
+https://laravel.com/api/5.5/Illuminate.html
+
+
+Laravel公式
+
+https://readouble.com/laravel/6.x/ja/helpers.html
+
+
+
+### Log
+
+
+\Log::debug(print_r($response, true));
+
