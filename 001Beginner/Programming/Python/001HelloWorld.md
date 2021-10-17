@@ -32,5 +32,7 @@ else:
 ```
 
 
+float nan
+https://qiita.com/Takuya_Fujitani/items/fcbd5fb3bd21365a5fc6
 
 
