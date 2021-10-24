@@ -10,7 +10,8 @@ ArticleUseCaseにfetchComments()が見つかったので、それを呼び出し
 fetchComments()の中にはコメントを既読にするという既読管理機能も入っていた。
 fetchComments()という名前では既読管理があるように気づかない。
 Swiftの[API Design Guidelines]では「短い名前よりも明確であることが重要」と定義されている。
-fetchCommentsAndMarkAllCommentsAsRead()とすれば間違って使われることはないが、名前が長すぎるのでSOLID原則の単一責任の原則からオブジェクトを分ければ良い。
+fetchCommentsAndMarkAllCommentsAsRead()とすれば間違って使われることはないが、
+名前が長すぎるのでSOLID原則の単一責任の原則からオブジェクトを分ければ良い。
 fetchComments() と markAllCommentsAsRead()に分けれるなど。
 ```
 
@@ -78,6 +79,8 @@ Action、Dispatcher、Handler、Watcher、Listener
 - getXXX, setXXX【関数】    
 プロパティに似てるのと、軽量動作のイメージがある。
 
+こう言うのを使おうね。
+
 load：データの呼び出し
 save：データを保存
 commit：
@@ -136,7 +139,6 @@ ArrayWrapper → ImmutableArray
 
 
 ### デザインパターン
-
 
 
 
