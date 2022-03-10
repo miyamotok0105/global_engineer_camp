@@ -41,4 +41,4 @@ Oracleだけじゃない色んな内容が集まってる。
 [【SQL腕試し問題】現在の部署に所属する社員の一覧を取得するSQLを書いて下さい](https://qiita.com/jnchito/items/29e22cc5a73da29f65a3)
     
 [【SQL腕試し問題！】締め切り日が近いイベントの一覧の取得するSQLを書いて下さい](https://qiita.com/jnchito/items/7d5d7e829690ea3c4d6f)
-    
+

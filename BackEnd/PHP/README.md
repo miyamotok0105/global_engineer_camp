@@ -46,6 +46,10 @@ https://laraveldaily.com/free-e-book-40-laravel-quick-tips-and-counting/
 
 
 
+Laravel+Vue.jsでLighthouseのスコアを0点から97点にした(バンドルサイズ削減)
+https://kouya17.com/posts/19/#1
+
+
 ## 公式ドキュメント命
 
 一通り読んでおく方が良い。

@@ -9,12 +9,18 @@
 https://github.com/miyamotok0105/golang_sample/tree/main/001basic1
     
 
+NuxtとGoではじめるWebアプリ開発
+https://booth.pm/ja/items/1576346
+
 
 ## サンプル
 
 参考になるリポジトリ
 
 https://github.com/Takumaron/Orenotorero
+
+
+
 
 
 ## Go練習問題
