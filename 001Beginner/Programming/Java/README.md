@@ -14,3 +14,6 @@ http://www.cc.kyoto-su.ac.jp/~mmina/bp1/hundredKnocks.html
 
 http://www.groovy-number.com/java/sample.html
 
+Java演習問題
+
+https://eng-entrance.com/category/java/java-question

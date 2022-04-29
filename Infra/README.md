@@ -62,3 +62,7 @@ CloudStack/IDCFクラウド
 
 https://tech.quickguard.jp/posts/terraform-cloud-stack/
 
+### 競技
+
+ISUCON
+https://isucon.net/

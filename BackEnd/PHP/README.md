@@ -72,6 +72,11 @@ Laravel公式
 
 https://readouble.com/laravel/6.x/ja/helpers.html
 
+### VSCODE
+
+Laravel Snippetsとかプラグインは便利
+
+https://yurupro.cloud/2132/
 
 
 ### Log
