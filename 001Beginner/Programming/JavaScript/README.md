@@ -13,6 +13,10 @@ https://qiita.com/diescake/items/70d9b0cbd4e3d5cc6fce
 
 https://qiita.com/tetsuya-zama/items/11e19b9da4892eb365c4
 
+- JavaScript Promiseの本
+
+https://azu.github.io/promises-book/
+
 
 
 ## JavaScript練習問題

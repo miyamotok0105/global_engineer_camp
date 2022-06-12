@@ -70,7 +70,21 @@ https://laravel.com/api/5.5/Illuminate.html
 
 Laravel公式
 
-https://readouble.com/laravel/6.x/ja/helpers.html
+6.0
+https://readouble.com/laravel/6.x/ja
+
+8.0
+https://readouble.com/laravel/8.x/ja
+
+### 
+
+思考の葉
+　PHPの記事一覧
+https://noumenon-th.net/programming/php/
+
+RitoLabo
+https://www.ritolab.com/category/PHP
+
 
 ### VSCODE
 

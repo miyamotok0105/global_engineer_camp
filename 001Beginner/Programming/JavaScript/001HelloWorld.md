@@ -419,70 +419,49 @@ execTimeOutFunc(function() {
 console.log("処理終了");
 ```
 
+## function*関数
 
-
-## hoge
-
-
-
-```JavaScript:
-console.log("Hello World!")
-```
-
-```JavaScript:
-console.log("Hello World!")
-```
-
-## hoge
-
+Generator オブジェクトを返すジェネレータ関数。
+yieldを書くところとか他の言語と似てる。
 
 
 ```JavaScript:
-console.log("Hello World!")
+function* generator(i) {
+  yield i;
+  yield i + 10;
+}
+
+const gen = generator(10);
+
+console.log(gen.next().value);
+// expected output: 10
+
+console.log(gen.next().value);
+// expected output: 20
 ```
 
-```JavaScript:
-console.log("Hello World!")
-```
-
-
-## hoge
+[MDN](https://developer.mozilla.org/ja/docs/Web/JavaScript/Reference/Statements/function*)
 
 
 
-```JavaScript:
-console.log("Hello World!")
-```
-
-```JavaScript:
-console.log("Hello World!")
-```
-
-
-## hoge
-
+## スプレッド構文 (...) 
 
 
 ```JavaScript:
-console.log("Hello World!")
+function sum(x, y, z) {
+  return x + y + z;
+}
+
+const numbers = [1, 2, 3];
+
+console.log(sum(...numbers));
+// expected output: 6
+
+console.log(sum.apply(null, numbers));
+// expected output: 6
 ```
 
-```JavaScript:
-console.log("Hello World!")
-```
-
-
-## hoge
-
-
-
-```JavaScript:
-console.log("Hello World!")
-```
-
-```JavaScript:
-console.log("Hello World!")
-```
+[MDN](https://developer.mozilla.org/ja/docs/Web/JavaScript/Reference/Operators/Spread_syntax)
 
 
 ## hoge
@@ -509,6 +488,48 @@ console.log("Hello World!")
 ```JavaScript:
 console.log("Hello World!")
 ```
+
+
+## hoge
+
+
+
+```JavaScript:
+console.log("Hello World!")
+```
+
+```JavaScript:
+console.log("Hello World!")
+```
+
+
+## hoge
+
+
+
+```JavaScript:
+console.log("Hello World!")
+```
+
+```JavaScript:
+console.log("Hello World!")
+```
+
+
+## hoge
+
+
+
+```JavaScript:
+console.log("Hello World!")
+```
+
+```JavaScript:
+console.log("Hello World!")
+```
+
+
+
 
 
 ## TIPS
