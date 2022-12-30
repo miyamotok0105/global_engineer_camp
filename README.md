@@ -100,10 +100,9 @@ Linux(CentOS)はyum
 Macはbrew
 ```
 
-## 便利ツール
+## エンジニアの技術チェックリスト
 
-
-https://github.com/awslabs/git-secrets
+命名規約を理解している
 
 
 ## エンジニアのRoadmap
@@ -262,4 +261,10 @@ https://github.com/chris-chris/ml-engineer-roadmap
 類似教材：hoge
 想定作業時間：
 ```
+
+
+## 便利ツール
+
+
+https://github.com/awslabs/git-secrets
 

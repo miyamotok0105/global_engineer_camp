@@ -40,6 +40,10 @@ https://team-lab.github.io/skillup/
 想定作業時間：30時間〜80時間
 ```
 
+- Laravelの良い記事
+
+https://newmonz.jp/lesson/laravel-basic/chapter-5
+
 - Laravel TIPS    
 
 https://laraveldaily.com/free-e-book-40-laravel-quick-tips-and-counting/
